@@ -1,19 +1,7 @@
-### Hi there 👋
+### Hi there.
 
-<!--
-**Reflex-Gravity/Reflex-Gravity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web apps using JavaScript, ReactJS and PHP.
 
-Here are some ideas to get you started:
+Follow me on [twitter](https://twitter.com/joeldsouza10)
 
-- 🔭 I’m currently working on @React
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🔭 I’m currently working on ReactJS.
-- 📫 How to reach me: [portfolio](https://joeldsouza.me)
+You can visit my [website](https://joeldsouza.me)
